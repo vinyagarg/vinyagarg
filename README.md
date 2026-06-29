@@ -2,13 +2,13 @@
 
 # 👩‍💻 Vinya Garg
 
+### Aspiring Software Engineer | AI/ML Enthusiast | Problem Solver
+
 <i>Building intelligent applications, exploring new technologies, and solving challenging problems through clean, efficient code.</i>
 
 <br>
 
 `Python` &nbsp;•&nbsp; `AI/ML` &nbsp;•&nbsp; `Data Science` &nbsp;•&nbsp; `DSA` &nbsp;•&nbsp; `Full-Stack`
-
-<br>
 
 </div>
 
@@ -16,14 +16,9 @@
 
 ### 🌸 About Me
 
-I'm an Information Technology undergraduate with a strong interest in **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy the entire process of building something — from breaking down a problem and designing a solution, to writing clean code and seeing it come to life as a working application.
+I'm an Information Technology undergraduate passionate about **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy the process of building something end-to-end — breaking down a problem, designing a solution, and writing clean code that brings it to life.
 
-I'm particularly drawn to projects where AI meets usability — building tools that don't just work well technically, but are genuinely simple and intuitive for people to use. Alongside that, I spend time strengthening my fundamentals in **Data Structures & Algorithms**, working on backend and full-stack development, and staying curious about how new technologies can solve everyday problems.
-
-- 🔍 Currently sharpening my skills in **AI/ML, Data Science, and DSA**
-- 🛠️ Interested in **Full-Stack Development** and building end-to-end applications
-- 📈 Enjoy working with data — cleaning it, modeling it, and visualizing it clearly
-- 🤝 Always open to collaborating on interesting AI/ML or web-based projects
+I'm especially drawn to projects where AI meets usability, creating tools that are technically solid yet simple and intuitive to use. Alongside that, I keep strengthening my fundamentals in **Data Structures & Algorithms** and explore **Full-Stack Development** to build well-rounded, end-to-end applications.
 
 <br>
 
@@ -33,7 +28,7 @@ I'm particularly drawn to projects where AI meets usability — building tools t
 
 <img src="https://skillicons.dev/icons?i=python,c,html,css,sklearn,git,github,vscode&theme=light" />
 
-<br>
+<br><br>
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -55,10 +50,4 @@ I'm particularly drawn to projects where AI meets usability — building tools t
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinya-garg-77a35b329)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vinyagarg/)
 
-</div>
-
-<br>
-
-<div align="center">
-<sub>✨ Thanks for visiting my profile!</sub>
 </div>
