@@ -2,8 +2,6 @@
 
 # 👩‍💻 Vinya Garg
 
-### Aspiring Software Engineer | AI/ML Enthusiast | Problem Solver
-
 <i>Building intelligent applications, exploring new technologies, and solving challenging problems through clean, efficient code.</i>
 
 <br>
@@ -28,7 +26,7 @@ I'm especially drawn to projects where AI meets usability, creating tools that a
 
 <img src="https://skillicons.dev/icons?i=python,c,html,css,sklearn,git,github,vscode&theme=light" />
 
-<br><br>
+<br>
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
