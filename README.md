@@ -16,7 +16,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,c,html,css,sklearn,git,github,vscode&theme=light" />
 
-<br><br>
+<br>
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -38,10 +38,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinya-garg-77a35b329)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vinyagarg/)
 
-</div>
-
-<br>
-
-<div align="center">
-<sub>✨ Thanks for visiting my profile!</sub>
 </div>
