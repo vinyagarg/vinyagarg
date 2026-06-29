@@ -46,17 +46,6 @@ I enjoy working on **AI-powered, no-code tools** that make data analysis and mac
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vinyagarg&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinyagarg&layout=compact&hide_border=true&theme=default" width="48%" />
-
-</div>
-
----
-
 ### 📫 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-vinyagarg2006%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vinyagarg2006@gmail.com)
